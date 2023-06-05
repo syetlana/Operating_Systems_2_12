@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\makhn\downloads\os_lab_6-20200528t184741z-001\os_lab_6\client\source.cpp(21): warning C4101: 'a': unreferenced local variable
+c:\users\makhn\downloads\os_lab_6-20200528t184741z-001\os_lab_6\client\source.cpp(21): warning C4101: 'b': unreferenced local variable
+c:\users\makhn\downloads\os_lab_6-20200528t184741z-001\os_lab_6\client\source.cpp(21): warning C4101: 'c': unreferenced local variable
+c:\users\makhn\downloads\os_lab_6-20200528t184741z-001\os_lab_6\client\source.cpp(21): warning C4101: 'd': unreferenced local variable
+  Client.vcxproj -> C:\Users\makhn\Downloads\OS_lab_6-20200528T184741Z-001\OS_lab_6\x64\Debug\Client.exe
